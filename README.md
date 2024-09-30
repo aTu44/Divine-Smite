@@ -17,7 +17,7 @@ A aplicação solicita as seguintes informações:
 - Se o ataque foi crítico
 - Se o monstro é resistente a dano radiante
 
-Com base nisso, o programa calcula e exibe o total de dano causado pela habilidade "Golpe Divino".
+Com base nisso, o programa calcula e exibe o total de dano causado pela habilidade "Divine Smite".
 
 ## Instalação
 Clone este repositório:
