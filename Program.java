@@ -1,6 +1,7 @@
 import modelos.Slot;
 
-public class Principal {
+public class Program
+{
     public static void main(String[] args) {
         String hud = """
         **********************************
